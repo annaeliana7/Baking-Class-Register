@@ -9,7 +9,7 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 ### Setup
 Clone this repository by using the command line :
-`git clone https://github.com/annaeliana7/Portfolio.git`
+`https://github.com/annaeliana7/Baking-Class-Register.git`
 ### Install
 ### Usage
 ### Run tests
