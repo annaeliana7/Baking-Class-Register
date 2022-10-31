@@ -1,5 +1,5 @@
 # Baking Class Register
-> This webpage is a registration form for a baking class.
+> This website is a registration form for a baking class.
 ## Built With
 - HTML and CSS
 
