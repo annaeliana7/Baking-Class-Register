@@ -1,5 +1,5 @@
 # Baking Class Register
-> This project is a profile to showcase different projects for a software engineer
+> This webpage is a registration form for a baking class.
 ## Built With
 - HTML and CSS
 
