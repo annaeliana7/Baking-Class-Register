@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    color: rgb(48, 43, 43);
+}
+
+body {
+    background-image: linear-gradient(rgba(236, 232, 242, 0.319), rgba(222, 219, 231, 0.5)), url("Images/theme-photos-Hx7xdwhj2AY-unsplash.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+input {
+    padding: 8px;
+}
+
+h1 {
+    font-family: 'Gloria Hallelujah', cursive, sans-serif;
+    font-size: 40px;
+    color: rgb(48, 43, 43);
+    margin: 50px;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Gloria Hallelujah', cursive, sans-serif;
+    font-size: 30px;
+    color: rgb(48, 43, 43);
+    text-align: center; 
+    padding-bottom: 20px;
+}
+
+.register {
+    margin: 0 auto;
+    border: 10px solid rgb(144, 131, 131);
+    width: 40%;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+li {
+    list-style: none;
+    width: 100%;
+}
+
+li label {
+    width: 100%;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+ul {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.que {
+    font-family:Arial, Helvetica, sans-serif;
+    padding-right: 10px;
+    display: inline;
+}
+
+.login {
+    font-family:Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: #5e6c84;
+}
+
+.login:hover {
+    color: #fdfafd;
+    text-decoration: none;
+}
+
+input {
+    font-weight: 500;
+    font-size: 17px;
+    color: #896eb0;
+    border: 1px solid #b06ead;
+    border-radius: 8px;
+    padding: 12px;
+    background-color: #fff;
+    cursor: pointer;   
+}
+
+input:hover {
+    color: #fff;
+    background-color: #d6a8d4;
+    box-shadow: 0 8px 16px rgba(64, 83, 252, 0.24);
+}
+
+label:disabled {
+    color: #5e6c84;
+    border: 1px solid #c1c7d0;
+}
+
